@@ -6,7 +6,7 @@ import Sec4 from '../sec4';
 function Home() {
     return (
         <div>
-            <h1>Home</h1>
+            {/* <h1>Home</h1> */}
             <Sec1/>
             <Sec2/>
             <Sec3/>
